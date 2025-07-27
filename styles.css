@@ -6,7 +6,8 @@
 	height:100vh;
 }
 .item-1{
-	align-item:center;
+    align-item:center;
+	justify-content:center;
 	width:100px;
 	height:100px;
 	background-color:red;
